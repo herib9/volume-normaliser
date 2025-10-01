@@ -4,7 +4,7 @@ Este script es un normalizador de volumenes, muy útil para pinchar tu música d
 Se aconseja crear un directorio e incluir el script dentro, mas otro directorio dentro donde incluiremos los archivos a normalizar
 Para usarlo, simplemente ejecutalo en tu terminal con ./volume_normaliser.sh
 
-Para usarlo necesitas haber descargado los siguientes programas
+Para usarlo necesitas haber descargado los siguientes programas:
   - oijhas
   - json
 
