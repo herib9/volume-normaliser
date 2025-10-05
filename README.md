@@ -12,12 +12,12 @@ Para usarlo necesitas instalar las siguientes herramientas:
 - FFMPEG  
 Para instalarlo copia el siguiente código en el terminal:    
 
-  brew install ffmpeg
+      brew install ffmpeg
 
 - JQ  
 Para instalarlo copia el siguiente código en el terminal:
 
-  brew install jq
+      brew install jq
 
 
 Para ejecutarlo, otorga permisos pertinentes y ejecuta con ./normaliser.sh
