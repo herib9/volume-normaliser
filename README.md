@@ -9,12 +9,12 @@ Una vez ejecutado, él mismo creará un nuevo directorio con los archivos ya nor
 
 Para usarlo necesitas instalar las siguientes herramientas:
 
-- FFMPEG
+- FFMPEG  
 Para instalarlo copia el siguiente código en el terminal:    
 
   brew install ffmpeg
 
-- JQ
+- JQ  
 Para instalarlo copia el siguiente código en el terminal:
 
   brew install jq
