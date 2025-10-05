@@ -2,7 +2,7 @@
 
 Este script es un normalizador de volumenes para archivos WAV
 
-Muy útil para pinchar tu música digital sin tener que estar pendiente continuamente de las ganancias segun los masters hechos en cada track
+Muy útil para pinchar música digital sin tener que estar pendiente de las ganancias según los masters hechos en cada track
 
 Se aconseja crear un directorio e incluir el script dentro
 Una vez ejecutado, él mismo creará un nuevo directorio con los archivos ya normalizados
