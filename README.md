@@ -22,6 +22,6 @@ Para instalarlo copia el siguiente código en el terminal:
 
 Para ejecutarlo, otorga permisos pertinentes y ejecuta con ./normaliser.sh
 
-Si tienes alguna duda o alguna posible mejora no dudes en contactar y se harán las pruebas pertinentes para incluirlo en el archivo
+Si tienes alguna duda o posible mejora, no dudes en contactar, se harán las pruebas pertinentes y se incluirá en el archivo
 
 Disfrútalo!
