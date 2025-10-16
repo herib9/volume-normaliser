@@ -35,7 +35,7 @@ ENGLISH
 
 This script is a volume normalizer for WAV files.
 
-Very useful for playing digital music without having to keep track of the gains based on the masters created for each track.
+Very useful for djing digital music without having to keep track of the gains based on the masters created for each track.
 
 It is recommended to create a directory and include the script inside. Once executed, it will create a new directory with the already normalized files.
 
