@@ -29,7 +29,7 @@ Si tienes alguna duda o posible mejora, no dudes en contactar, se harán las pru
 
 Disfrútalo!
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ENGLISH
 
@@ -56,3 +56,5 @@ To run it, grant the appropriate permissions and run it with ./normaliser.sh.
 If you have any questions or suggestions for improvements, please don't hesitate to contact us. We'll run the necessary tests and include them in the archive.
 
 Enjoy!
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
