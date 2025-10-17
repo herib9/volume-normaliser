@@ -1,6 +1,7 @@
 # Volume-Normaliser
 
-SPANISH
+
+ESPAÑOL
 
 Este script es un normalizador de volumenes para archivos WAV
 
@@ -27,7 +28,6 @@ Para ejecutarlo, otorga permisos pertinentes y ejecuta con ./normaliser.sh
 Si tienes alguna duda o posible mejora, no dudes en contactar, se harán las pruebas pertinentes y se incluirá en el archivo
 
 Disfrútalo!
-
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
