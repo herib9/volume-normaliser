@@ -7,7 +7,7 @@ Este script es un normalizador de volumenes para archivos WAV
 
 Muy útil para pinchar música digital sin tener que estar pendiente de las ganancias según los masters hechos en cada track
 
-Se aconseja crear un directorio e incluir el script dentro
+Se aconseja crear un directorio e incluir el script dentro. 
 Una vez ejecutado, él mismo creará un nuevo directorio con los archivos ya normalizados
 
 Para usarlo necesitas instalar las siguientes herramientas:
@@ -37,7 +37,8 @@ This script is a volume normalizer for WAV files.
 
 Very useful for djing digital music without having to keep track of the gains based on the masters created for each track.
 
-It is recommended to create a directory and include the script inside. Once executed, it will create a new directory with the already normalized files.
+It is recommended to create a directory and include the script inside. 
+Once executed, it will create a new directory with the already normalized files.
 
 To use it, you need to install the following tools:
 
