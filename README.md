@@ -1,7 +1,7 @@
 # Volume-Normaliser
 
 
-ESPAÑOL
+### ESPAÑOL
 
 Este script es un normalizador de volumenes para archivos WAV
 
@@ -31,7 +31,7 @@ Disfrútalo!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ENGLISH
+### ENGLISH
 
 This script is a volume normalizer for WAV files.
 
