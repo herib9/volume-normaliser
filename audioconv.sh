@@ -15,7 +15,7 @@ echo "   2) WAV  → FLAC (16 bits / 44100 Hz)"
 echo ""
 
 while true; do
-    read -rp "Elige una opción (1 o 2): " OPCION
+    read -rn 1 -p "Elige una opción (1 o 2): " OPCION
     if [[ "$OPCION" == "1" || "$OPCION" == "2" ]]; then
         break
     fi
